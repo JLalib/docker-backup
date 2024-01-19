@@ -6,4 +6,6 @@ Script para hacer copias de Seguridad de los contenedores Docker en local y en l
 
 ### Vídeo desarrollo en YouTube<br>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2RnyWVGaKwQ?si=cjIib3YCDu7ANAoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Enlace al vídeo en YouTube, con más explicación y detalle paso a paso.
+<br><br>
+https://youtu.be/2RnyWVGaKwQ?si=-xQ_K8jF41qkYs7j
