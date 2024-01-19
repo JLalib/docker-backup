@@ -3,6 +3,7 @@
 Script para hacer copias de Seguridad de los contenedores Docker en local y en la nube (OneDrive) con Rclone, y recibir notificación por Telegram adjuntando el log.<br>
 <br>
 ⏭📼 https://bit.ly/3NKeL8K
+![miniatura YT3](https://github.com/JLalib/docker-backup/assets/57844755/0c120c6f-396c-4ed9-874c-e979bca6b687)
 
 ## Generación e intercambiar de claves para la conexión SSH sin intervención del usuario.
 
