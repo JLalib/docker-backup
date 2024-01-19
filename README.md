@@ -25,6 +25,7 @@ Posteriormente, le damos permisos de ejecución y lo lanzamos.
 Enlace al vídeo en YouTube, con más explicación y detalle paso a paso.
 <br><br>
 https://youtu.be/2RnyWVGaKwQ?si=-xQ_K8jF41qkYs7j
-<br>
-⛓Rclone en Linux
+<br><br>
+⛓Rclone en Linux 
+<br><br>
 https://www.youtube.com/watch?v=5BXTyhEEejk
