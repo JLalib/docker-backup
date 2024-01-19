@@ -1,0 +1,8 @@
+#ssh-keygen
+#Obtener RSA
+
+ssh-keygen -t rsa
+
+#Copiar/intercambiar la Key con el Sevidor Remoto.
+
+ssh-copy-id USUARIO-REMOTO@IP-SERVER-REMOTO
